@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flexmoney/static/css/main.a4619561.css",
+    "main.js": "/flexmoney/static/js/main.8995e314.js",
+    "index.html": "/flexmoney/index.html",
+    "main.a4619561.css.map": "/flexmoney/static/css/main.a4619561.css.map",
+    "main.8995e314.js.map": "/flexmoney/static/js/main.8995e314.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4619561.css",
+    "static/js/main.8995e314.js"
+  ]
+}

@@ -1,0 +1,27 @@
+.input {
+  padding: 0.5rem;
+
+    margin-bottom: 0.5rem;
+  }
+  
+  .input label {
+    font-weight: bolder;
+    color: black; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+    margin-right: 1.5rem;
+  }
+  
+  .input input {
+    appearance: none;
+    width: max-content;
+    position: absolute;
+    height: 2.7rem;
+    border-radius: 7px;
+    border: 1px solid #ccc;
+    font: inherit;
+    padding-left: 0.5rem;
+  }
+  .input input:hover{
+
+  }
